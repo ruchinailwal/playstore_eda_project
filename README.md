@@ -1,4 +1,4 @@
-# 📱 Play Store App Review Analysis
+# 📱 Google Play Store App Analytics
 
 An end-to-end **Exploratory Data Analysis (EDA)** project on Google Play Store app data and user reviews — combining Python-based data analysis with an interactive **Power BI dashboard** to deliver actionable insights for app developers and businesses.
 
@@ -21,7 +21,7 @@ playstore_eda_project/
 ├── dashboard_screenshots/              # Power BI dashboard preview images
 ├── datasets/                           # App dataset & user review dataset
 ├── Google_Play_Store_Analytics_Dashboard.pbix   # Power BI dashboard file
-├── Project_PlayStore_App.ipynb         # Full EDA notebook (Python)
+├── Google_Play_Store_App_Analytics.ipynb         # Full EDA notebook (Python)
 └── README.md
 
 ---
@@ -106,7 +106,7 @@ This analysis of Play Store app data and user reviews uncovers the key drivers o
 ## 🛠️ How to Use
 
 1. Clone this repository
-2. Open `Project_PlayStore_App.ipynb` in Google Colab or Jupyter Notebook to explore the full EDA
+2. Open `Google_Play_Store_App_Analytics.ipynb` in Google Colab or Jupyter Notebook to explore the full EDA
 3. Open `Google_Play_Store_Analytics_Dashboard.pbix` in Power BI Desktop to interact with the dashboard
 
 ---
