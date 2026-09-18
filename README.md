@@ -102,15 +102,3 @@ An interactive two-page dashboard was built to present findings in a business-fr
 This analysis of Play Store app data and user reviews uncovers the key drivers of app success and provides actionable insights for developers in a competitive market. By prioritizing app quality, optimal sizing, user engagement, and informed category/monetization strategy, developers can boost visibility, build user trust, and achieve sustainable long-term growth within the Play Store ecosystem.
 
 ---
-
-## 🛠️ How to Use
-
-1. Clone this repository
-2. Open `Google_Play_Store_App_Analytics.ipynb` in Google Colab or Jupyter Notebook to explore the full EDA
-3. Open `Google_Play_Store_Analytics_Dashboard.pbix` in Power BI Desktop to interact with the dashboard
-
----
-
-## 👤 Author
-
-**Ruchi Nailwal**
